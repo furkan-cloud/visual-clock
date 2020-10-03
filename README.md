@@ -1,2 +1,2 @@
-# visual-clock
-visual clock project
+# visual-digital-clock
+# https://furkan-cloud.github.io/visual-clock/
